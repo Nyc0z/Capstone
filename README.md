@@ -47,7 +47,7 @@ Il report è stato progettato con particolare attenzione alla user experience:
 - **Python** → per la preparazione e pulizia dei dati  
 - **Power BI Desktop** → per modellazione, DAX e visualizzazione interattiva
 
-## 👤 Author
+## Author
 **Niccolò Giacomin**  
-📍 Capstone Project – Epicode Data Analyst  
-📅 Novembre 2025  
+Capstone Project – Epicode Data Analyst  
+Novembre 2025  
